@@ -1,0 +1,12 @@
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\bin\Debug\net6.0\Common.deps.json
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\bin\Debug\net6.0\Common.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\bin\Debug\net6.0\Common.pdb
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\Common.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\refint\Common.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\Common.pdb
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Common\obj\Debug\net6.0\ref\Common.dll

@@ -1,0 +1,17 @@
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\bin\Debug\net6.0\Application.deps.json
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\bin\Debug\net6.0\Application.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\bin\Debug\net6.0\Application.pdb
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\bin\Debug\net6.0\Common.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\bin\Debug\net6.0\Domain.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\bin\Debug\net6.0\Common.pdb
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\bin\Debug\net6.0\Domain.pdb
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\refint\Application.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\Application.pdb
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Application\obj\Debug\net6.0\ref\Application.dll
