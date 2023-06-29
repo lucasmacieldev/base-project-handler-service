@@ -22,7 +22,7 @@ namespace Mobby.Uber.Persistence.Migration
             var optionsBuilder = new DbContextOptionsBuilder<Context>();
             optionsBuilder
                 .UseLoggerFactory(loggerFactory)
-                .UseSqlServer(Configuration.MobbyUberContextConnectionString);
+                .UseSqlServer(Configuration.ContextConnectionString);
 
             await new Context(optionsBuilder.Options).Database.MigrateAsync();
         }

@@ -11,7 +11,7 @@ namespace Persistence
         {
             services.AddDbContext<Context>(options =>
             {
-                options.UseSqlServer(Configuration.MobbyUberContextConnectionString,
+                options.UseSqlServer(Configuration.ContextConnectionString,
                     sqlServerOptionsAction: sqlOptions =>
                     {
                         sqlOptions.EnableRetryOnFailure(
@@ -32,9 +32,9 @@ namespace Persistence
         {
             hcBuilder
                 .AddSqlServer(
-                    Configuration.MobbyUberContextConnectionString,
-                    name: "Database: greenpass-mobby-uber",
-                    tags: new string[] { "greenpass-mobby-uber" });
+                    Configuration.ContextConnectionString,
+                    name: "Database: basecrud",
+                    tags: new string[] { "basecrud" });
 
             return hcBuilder;
         }

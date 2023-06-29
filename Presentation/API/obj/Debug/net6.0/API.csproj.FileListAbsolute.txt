@@ -25,7 +25,6 @@ C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Mapster.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Mapster.Core.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\MediatR.dll
-C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Microsoft.AspNetCore.HeaderPropagation.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
@@ -111,3 +110,8 @@ C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\obj\Debug\net6.0\API.pdb
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\obj\Debug\net6.0\ref\API.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\System.Memory.Data.dll

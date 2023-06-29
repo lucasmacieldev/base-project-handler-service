@@ -1,3 +1,4 @@
+using Application.Client.Commands.CreateClient;
 using Application.Common.Models.Error;
 using Application.Common.Models.Response;
 using MediatR;
@@ -12,14 +13,14 @@ namespace API.Controllers
         private readonly IMediator _mediator;
         public ClientController(IMediator mediator) => _mediator = mediator;
 
-        //[HttpGet()]
-        //[ProducesResponseType(typeof(ResponseApiBase<IEnumerable<VoucherListQueryResponse>>), StatusCodes.Status200OK)]
-        //[ProducesResponseType(typeof(ResponseError), StatusCodes.Status400BadRequest)]
-        //public async Task<IActionResult> Vouchers([FromQuery] VoucherListQueryRequest request)
-        //{
-        //    var response = await _mediator.Send(request);
-        //    return Ok(response);
-        //}
+        [HttpPost()]
+        [ProducesResponseType(typeof(ResponseApiBase<CreateClientCommandResponse>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ResponseError), StatusCodes.Status400BadRequest)]
+        public async Task<IActionResult> NewClient([FromBody] CreateClientCommandRequest request)
+        {
+            var response = await _mediator.Send(request);
+            return Ok(response);
+        }
 
     }
 }

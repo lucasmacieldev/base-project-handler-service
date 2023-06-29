@@ -5,7 +5,7 @@ using Common;
 
 namespace Application.Common.Behaviours
 {
-    public class PaginationBehaviour<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse> where TRequest : IRequest<TResponse>
+    public class PaginationBehaviour<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
     {
         private readonly ILogger<object> _logger;
         private readonly int _defaulgPagination;

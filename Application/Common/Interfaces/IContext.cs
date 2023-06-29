@@ -9,7 +9,7 @@ namespace Application.Common.Interfaces
 {
     public interface IContext
     {
-        DbSet<Client> Clients { get; set; }
+        DbSet<Domain.Entities.Client> Clients { get; set; }
        
         IExecutionStrategy CreateExecutionStrategy();
         Task<int> SaveChangesAsync(CancellationToken cancellationToken);

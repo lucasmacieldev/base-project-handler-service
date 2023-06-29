@@ -9,10 +9,10 @@ namespace Persistence
     {
         public TContext CreateDbContext(string[] args)
         {
-            var basePath = Directory.GetCurrentDirectory() + string.Format(".{0}..{0}..{0}Presentation{0}Mobby.Uber.Presentation.API", Path.DirectorySeparatorChar);
+            var basePath = Directory.GetCurrentDirectory() + string.Format(".{0}..{0}..{0}Presentation{0}API", Path.DirectorySeparatorChar);
             Console.WriteLine(basePath);
             Configuration.Build(basePath);
-            return Create(connectionString: Configuration.MobbyUberContextConnectionString);
+            return Create(connectionString: Configuration.ContextConnectionString);
         }
 
         protected abstract TContext CreateNewInstance(DbContextOptions<TContext> options);
