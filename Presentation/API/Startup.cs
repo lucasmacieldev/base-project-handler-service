@@ -38,8 +38,6 @@ namespace API
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Base Crud");
                 c.RoutePrefix = "docs";
             });
-
-            //app.UseMetricServer().UseHttpMetrics();
             app.UseHealthChecksPrometheusExporter("/healthmetrics");
 
             app.UseRouting();
