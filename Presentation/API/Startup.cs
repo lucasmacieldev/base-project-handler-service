@@ -35,7 +35,7 @@ namespace API
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Mobby Uber v1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Base Crud");
                 c.RoutePrefix = "docs";
             });
 

@@ -1,11 +1,8 @@
 ﻿using Common;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using Persistence;
-using System.IO;
-using System.Threading.Tasks;
 
-namespace Mobby.Uber.Persistence.Migration
+namespace Persistence.Migration
 {
     class Program
     {
