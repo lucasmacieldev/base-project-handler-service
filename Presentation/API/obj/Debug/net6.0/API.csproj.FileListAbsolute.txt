@@ -115,3 +115,5 @@ C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Presentation\API\bin\Debug\net6.0\System.Threading.Channels.dll
