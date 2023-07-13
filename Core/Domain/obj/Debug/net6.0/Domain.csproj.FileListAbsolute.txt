@@ -10,3 +10,15 @@ C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Domain\
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Domain\obj\Debug\net6.0\Domain.pdb
 C:\projetos\Baseproject-handler-service\Baseproject-handler-service\Core\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\bin\Debug\net6.0\Domain.dll
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\Domain.dll
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Prog\Projetos\base-project-handler-service\Core\Domain\obj\Debug\net6.0\ref\Domain.dll

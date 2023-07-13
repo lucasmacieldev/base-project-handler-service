@@ -2,6 +2,7 @@ using Application.Client.Commands.CreateClient;
 using Application.Common.Models.Error;
 using Application.Common.Models.Response;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RabbitMQ.Client;
 using System.Text;
@@ -9,6 +10,7 @@ using System.Text.Json;
 
 namespace API.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("Clients")]
     public class ClientController : ControllerBase
@@ -54,7 +56,7 @@ namespace API.Controllers
                                          body: body);
                 }
 
-                return Ok(" Tarefa cadastrada na fila");
+                return Ok("Tarefa cadastrada na fila");
             }
             catch (Exception)
             {

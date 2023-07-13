@@ -52,5 +52,9 @@ namespace Common
 
         public static bool IsLocalhost => bool.Parse(_configuration.GetSection("AppSettings")["IsLocalhost"]);
         public static string ContextConnectionString => _configuration.GetConnectionString("ContextConnectionString");
+
+        public static string JwtIssuer => _configuration.GetSection("Jwt")["Issuer"];
+        public static string JwtAudience => _configuration.GetSection("Jwt")["Audience"];
+        public static string JWtKey => _configuration.GetSection("Jwt")["Key"];
     }
 }

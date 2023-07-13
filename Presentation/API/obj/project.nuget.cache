@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VzoLRA+lrcr3tyN587/b5hiELE0CtfvQrpgQFCBPLcYXLrs/KqBASE7YOmkq0JsgqEGwJ3L0S/56Ll9m7hvyTw==",
+  "dgSpecHash": "NEDrsZKQiiKnzL+mMKNsHzfyX/GgywFHSkoG7197JlFH7EJn3JtvBtbZ2kHxJaoZoidtr9a1jvD3Jkpf0wp3/g==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Presentation\\API\\API.csproj",
+  "projectFilePath": "D:\\Prog\\Projetos\\base-project-handler-service\\Presentation\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\aspnetcore.health\\2.0.1\\aspnetcore.health.2.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\aspnetcore.healthchecks.prometheus.metrics\\5.0.1\\aspnetcore.healthchecks.prometheus.metrics.5.0.1.nupkg.sha512",
@@ -19,6 +19,7 @@
     "C:\\Users\\lucas\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.1\\mediatr.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.headerpropagation\\5.0.7\\microsoft.aspnetcore.headerpropagation.5.0.7.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\1.1.0\\microsoft.aspnetcore.http.abstractions.1.1.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.http.features\\1.1.0\\microsoft.aspnetcore.http.features.1.1.0.nupkg.sha512",

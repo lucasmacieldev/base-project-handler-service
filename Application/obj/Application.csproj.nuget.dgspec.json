@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Application\\Application.csproj": {}
+    "D:\\Prog\\Projetos\\base-project-handler-service\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Application\\Application.csproj": {
+    "D:\\Prog\\Projetos\\base-project-handler-service\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Application\\Application.csproj",
+        "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Application\\obj\\",
+        "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj": {
-                "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj"
+              "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj": {
+                "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj"
               },
-              "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Domain\\Domain.csproj"
+              "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj"
               }
             }
           }
@@ -87,6 +87,14 @@
               "target": "Package",
               "version": "[7.0.1, )"
             },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -94,6 +102,10 @@
             "RabbitMQ.Client": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.21.0, )"
             },
             "prometheus-net": {
               "target": "Package",
@@ -116,18 +128,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj": {
+    "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj",
+        "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\obj\\",
+        "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -205,18 +217,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Domain\\Domain.csproj": {
+    "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Domain\\obj\\",
+        "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -260,7 +272,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

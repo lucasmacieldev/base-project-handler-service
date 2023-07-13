@@ -11,14 +11,14 @@ namespace Application.Client.Commands.CreateClient
             RuleFor(x => x.Nome)
                         .NotNull()
                         .NotEmpty()
-                        .WithErrorCode(((int)MessagesEnumerableOrderTag.NameRequired).ToString())
-                        .WithMessage(MessagesEnumerableOrderTag.NameRequired.GetDescription());
+                        .WithErrorCode(((int)MessagesEnumerable.NameRequired).ToString())
+                        .WithMessage(MessagesEnumerable.NameRequired.GetDescription());
 
             RuleFor(x => x.Type)
                 .NotNull()
                 .NotEmpty()
-                .WithErrorCode(((int)MessagesEnumerableOrderTag.TypeClientRequired).ToString())
-                .WithMessage(MessagesEnumerableOrderTag.TypeClientRequired.GetDescription());
+                .WithErrorCode(((int)MessagesEnumerable.TypeClientRequired).ToString())
+                .WithMessage(MessagesEnumerable.TypeClientRequired.GetDescription());
         }
     }
 }

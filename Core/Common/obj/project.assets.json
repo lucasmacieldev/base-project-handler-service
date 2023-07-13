@@ -481,11 +481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj",
+      "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj",
+      "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\obj\\",
+      "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -563,7 +563,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

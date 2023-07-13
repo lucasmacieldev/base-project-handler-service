@@ -1987,8 +1987,11 @@
           "Microsoft.Extensions.Http": "7.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "7.0.1",
           "Microsoft.Extensions.Options": "7.0.1",
+          "Microsoft.IdentityModel.JsonWebTokens": "6.21.0",
+          "Microsoft.IdentityModel.Tokens": "6.21.0",
           "Newtonsoft.Json": "13.0.3",
           "RabbitMQ.Client": "6.5.0",
+          "System.IdentityModel.Tokens.Jwt": "6.21.0",
           "prometheus-net": "8.0.0"
         },
         "runtime": {

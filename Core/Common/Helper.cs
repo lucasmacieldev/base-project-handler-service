@@ -1,5 +1,4 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 using System.Security.Cryptography;
 
 
@@ -20,6 +19,12 @@ namespace Common
                 _ = hash.Append(bytes[i].ToString(Format));
             }
             return new Guid(hash.ToString());
+        }
+
+        public static string Hash(string input)
+        {
+            var hash = (new SHA1Managed()).ComputeHash(Encoding.UTF8.GetBytes(input));
+            return string.Join("", hash.Select(b => b.ToString("x2")).ToArray());
         }
     }
 }

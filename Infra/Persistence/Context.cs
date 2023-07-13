@@ -9,7 +9,8 @@ namespace Persistence
     public class Context : DbContext, IContext
     {
         public DbSet<Client> Clients { get; set; }
-        
+        public DbSet<User> Users { get; set; }
+
         public DatabaseFacade DataBaseOrigim => throw new NotImplementedException();
 
         public Context(DbContextOptions<Context> options) : base(options) { }

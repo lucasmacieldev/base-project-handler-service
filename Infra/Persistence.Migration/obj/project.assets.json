@@ -3321,8 +3321,11 @@
           "Microsoft.Extensions.Http": "7.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "7.0.1",
           "Microsoft.Extensions.Options": "7.0.1",
+          "Microsoft.IdentityModel.JsonWebTokens": "6.21.0",
+          "Microsoft.IdentityModel.Tokens": "6.21.0",
           "Newtonsoft.Json": "13.0.3",
           "RabbitMQ.Client": "6.5.0",
+          "System.IdentityModel.Tokens.Jwt": "6.21.0",
           "prometheus-net": "8.0.0"
         },
         "compile": {
@@ -9799,11 +9802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
+      "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
       "projectName": "Persistence.Migration",
-      "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
+      "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Infra\\Persistence.Migration\\obj\\",
+      "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence.Migration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9820,11 +9823,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj": {
-              "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Core\\Common\\Common.csproj"
+            "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj": {
+              "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj"
             },
-            "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Infra\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\projetos\\Baseproject-handler-service\\Baseproject-handler-service\\Infra\\Persistence\\Persistence.csproj"
+            "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -9870,7 +9873,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
